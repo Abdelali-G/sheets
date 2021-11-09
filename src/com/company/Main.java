@@ -12,8 +12,9 @@ class Main {
 */
 
         // Calendar
-        Calender A = new Calender();
-        A.ShowCalender();
+       Calender A = new Calender();
+       A.ShowCalender();
+
 
         //stop watch problem
         /*
