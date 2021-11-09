@@ -26,11 +26,12 @@ public class Calender {
     void ShowCalender(){
         for(int i =0 ; i < 12; i++){
 
-            System.out.println( "\n-----------------------------------------------\n " +
-                    Year +"   "+ Month[i] + "\n-----------------------------------------------\n " +
+            System.out.println( "\n-----------------------------------------------\n " + "              "+
+                    Month[i] +"   "+ Year + "\n-----------------------------------------------\n " +
                     "Sun    Mon    Tue    Wed    Thu    Fri    Sat");
 
         }
+
 
     }
 
